@@ -1,0 +1,6 @@
+[submodule "repo-backBr"]
+	path = repo-backBr
+	url = https://github.com/karli2018/back-Br.git
+[submodule "repo-frontBr"]
+	path = repo-frontBr
+	url = https://github.com/karli2018/front-Br.git
